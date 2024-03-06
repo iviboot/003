@@ -1,5 +1,5 @@
 Desarrollo web
 
-uso de frameworks
+Uso de frameworks
 
-sass y bootstrap
+Sass y Bootstrap
